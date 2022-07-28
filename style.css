@@ -1,0 +1,47 @@
+.text{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    font-size: 20px;
+    margin: 20px 0 10px;
+    padding: 15px 0;
+  }
+  .content{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 5px;
+
+  }
+   button{
+    border-radius:5px;
+    padding: 5px 10px;
+    margin-left: 20px;
+    border:transparent;
+
+  } 
+  .wrapper{
+    border: 1px solid #ced4da;
+  }
+  .btn{
+    border-top: 1px solid #ced4da;
+    display: flex;
+  }
+  i{
+    display:inline;
+    font-size: 30px;
+    color: #fff;
+  }
+  img{
+    width:30px;
+  }
+  #btnSearch{
+    padding:0 50px;
+    display: inline-block;
+    flex:1
+  }
+  #btnSearch i{
+    display:inline-block;
+    font-size: 20px;
+    color: #fff;
+   
+    
+  }
